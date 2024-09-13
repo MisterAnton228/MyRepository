@@ -1,0 +1,9 @@
+﻿  ConsoleApplication1.cpp
+E:\4 курс\Системное программирование\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(65,52): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+E:\4 курс\Системное программирование\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(70,52): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+E:\4 курс\Системное программирование\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(73,45): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+E:\4 курс\Системное программирование\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(76,43): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+E:\4 курс\Системное программирование\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(79,53): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+  Square.cpp
+  Создание кода...
+  ConsoleApplication1.vcxproj -> E:\4 курс\Системное программирование\ConsoleApplication1\Debug\ConsoleApplication1.exe

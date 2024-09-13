@@ -1,0 +1,10 @@
+﻿  ConsoleApplication1.cpp
+E:\4 курс\Системное программирование\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(44,45): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+E:\4 курс\Системное программирование\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(49,45): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+E:\4 курс\Системное программирование\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(52,44): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+E:\4 курс\Системное программирование\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(55,42): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+E:\4 курс\Системное программирование\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(58,46): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+  Square.cpp
+  Создание кода...
+  LINK : не найден или не выполнена сборка E:\4 курс\Системное программирование\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe при последней инкрементной компоновке; выполняется полная компоновка
+LINK : fatal error LNK1105: не могу закрыть файл 'E:\4 курс\Системное программирование\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe'; код ошибки 1224
