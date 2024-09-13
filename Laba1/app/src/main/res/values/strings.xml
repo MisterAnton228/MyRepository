@@ -1,0 +1,8 @@
+<resources>
+    <string name="app">StartApplication</string>
+    <string name="b1">Кнопка 1</string>
+    <string name="b2">Кнопка 2</string>
+    <string name="b3">Кнопка 3</string>
+    <string name="b4">Кнопка 4</string>
+    <string name="afterClick">***</string>
+</resources>

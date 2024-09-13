@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Сбер</string>
+    <string name="tv1">TextView1</string>
+    <string name="tv2">TextView2</string>
+    <string name="b1">Add *</string>
+    <string name="b2">Copy</string>
+</resources>

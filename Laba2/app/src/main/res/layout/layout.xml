@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        style="@style/tv"
+        android:id="@+id/tv1"
+        android:text="Песигин Антон"
+        android:layout_width="match_parent"
+        android:layout_weight ="2"
+        android:layout_height="0dp"/>
+
+    <TextView
+        style="@style/tv"
+        android:id="@+id/tv2"
+        android:text=""
+        android:layout_width="match_parent"
+        android:layout_weight ="2"
+        android:layout_height="0dp"/>
+
+    <Button
+        style="@style/buttons"
+        android:id="@+id/b1"
+        android:text="Добавить *"
+        android:onClick="onAdd"
+        android:layout_width="match_parent"
+        android:layout_weight = "1"
+        android:layout_height="0dp"/>
+    <Button
+        style="@style/buttons"
+        android:id="@+id/b2"
+        android:text="Копировать"
+        android:onClick="onCopy"
+        android:layout_width="match_parent"
+        android:layout_weight = "1"
+        android:layout_height="0dp"/>
+
+</LinearLayout>
